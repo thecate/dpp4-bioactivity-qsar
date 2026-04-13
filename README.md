@@ -69,4 +69,3 @@ project-2/
 
 ## Author
 Theresia Cate  
-Dr. rer. nat in Chemistry
